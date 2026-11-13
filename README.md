@@ -55,14 +55,9 @@ Os dados são agregados por instituição e mês, **não por doente**. A anális
 ## Estrutura do repositório
 
 ```
-├── notebooks/
-│   ├── 01_compreensao_dados.ipynb
-│   ├── 02_limpeza_dados.ipynb
-│   └── 03_analise.ipynb
-├── dados/
-│   └── dados_limpos.csv
-├── sql/            (em desenvolvimento)
-├── powerbi/        (em desenvolvimento)
+├── 01_compreensao_dados.ipynb
+├── 02_limpeza_dados.ipynb
+├── 03_analise.ipynb
 └── README.md
 ```
 
